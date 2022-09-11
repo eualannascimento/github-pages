@@ -1,5 +1,5 @@
 ---
-title: welcome to my webpage
+title: my webpage
 ---
 ![Github Invertocat Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
